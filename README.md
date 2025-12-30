@@ -19,5 +19,5 @@ To identify key factors influencing bike buying decisions such as age, gender, i
   This project demonstrates the use of Excel for data analysis and dashboard creation. It highlights how demographic insights can help businesses understand customer behavior and improve marketing strategies.
   ## Author
   SHIVPRASAD INGOLE
-  - Intern SURE-TRUST
+  - Aspiring Data Analyst
   
