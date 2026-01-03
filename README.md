@@ -2,7 +2,7 @@
 ## Project Objective
 To identify key factors influencing bike buying decisions such as age, gender, income, education, occupation, region, and commute distance.
 ## DataSet Used
--<a href="https://github.com/sure-trust/SHIVPRASAD-DIGAMBAR-INGOLE-g9-ds/blob/main/Assignments/DASHBOARD.xlsm"> Bike Buyers DataSet<a/>
+-<a href="https://github.com/Shivprasad-DA-DS/DATA-ANALYSIS-PROJECT/blob/main/BIKE-BUYERS-DASHBOARD.xlsm"> Bike Buyers DataSet<a/>
 
 -Dashboard Interaction <a href="https://github.com/sure-trust/SHIVPRASAD-DIGAMBAR-INGOLE-g9-ds/blob/main/Assignments/Screenshot%20(3).png">View Dashboard<a/>
 ## Process
