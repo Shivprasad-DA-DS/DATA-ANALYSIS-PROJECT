@@ -13,7 +13,8 @@ To identify key factors influencing bike buying decisions such as age, gender, i
 -  Add macro button to clear all slicer.
 -  save file in macro-enabled mode(xlsm).
   ## Dashboard
-  <img width="1691" height="843" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/191f6529-7256-4593-9bf0-6788d0e43211" />
+<img width="1841" height="778" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/fe035207-a6f3-4616-9085-359df768881e" />
+
 
   ## Conclusion
   This project demonstrates the use of Excel for data analysis and dashboard creation. It highlights how demographic insights can help businesses understand customer behavior and improve marketing strategies.
