@@ -4,7 +4,7 @@ To identify key factors influencing bike buying decisions such as age, gender, i
 ## DataSet Used
 -<a href="https://github.com/Shivprasad-DA-DS/DATA-ANALYSIS-PROJECT/blob/main/BIKE-BUYERS-DASHBOARD.xlsm"> Bike Buyers DataSet<a/>
 
--Dashboard Interaction <a href="https://github.com/sure-trust/SHIVPRASAD-DIGAMBAR-INGOLE-g9-ds/blob/main/Assignments/Screenshot%20(3).png">View Dashboard<a/>
+-Dashboard Interaction <a href="https://github.com/Shivprasad-DA-DS/DATA-ANALYSIS-PROJECT/blob/main/Screenshot%20(4).png">View Dashboard<a/>
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
 - Make sure data is consistent and clean with respect to data type, data formate and values used.
